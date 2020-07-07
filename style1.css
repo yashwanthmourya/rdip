@@ -1,0 +1,32 @@
+b {
+ font-family:arial;
+ color:blue;
+ font-size:18px;
+ }
+ 
+ input[type="text"] {
+ display: block;
+ margin: 0;
+ width: 35%;
+ font-family: arial;
+ font-size: 18px;
+ appearance: none;
+ border-radius: 2px;
+ box-shadow: 10px 10px 7px #888888;
+}
+input[type="text"]:focus {
+ outline: none;
+}
+input[type=button] {
+padding:12px 31px; 
+background:yellow; border:10px;
+cursor:pointer;
+-webkit-border-radius: 12px;
+box-shadow: 10px 10px 7px #888888;
+border-radius: 5px; 
+font-family: arial;
+font-size: 18px;
+}
+</style>
+</head>
+<body bgcolor="lightgreen">
